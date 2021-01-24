@@ -6,7 +6,7 @@ The objective of this project is to present to V.Isualize and the PyBer team an 
 ## **Analysis**
 
 **Ride-sharing by city type**
-[Ride-sharing key data by City Type Summary](https://github.com/TheLittlePrincess/PyBer_Analysis/blob/main/Analysis/Dev1_summary(ride-sharing%20summary%20DataFrame%20by%20city%20type).png) 
+![Ride-sharing key data by City Type Summary](https://github.com/TheLittlePrincess/PyBer_Analysis/blob/main/Analysis/Dev1_summary(ride-sharing%20summary%20DataFrame%20by%20city%20type).png) 
  
 -	It is clear that the urban market is the biggest market from the amount of rides, drivers and total fares collected. Urban fares add to almost ~$40K during the analyzed period, twice as much as the Suburban market and 9x the Rural one. However, when looked at average fares per ride and per driver, the relationship is the opposite for both: 
 -	Drivers in the rural cities collect fares per ride that are 40% higher than those collected in the urban ones and even when less dramatic, still higher than those collected in the suburban cities. 
@@ -16,7 +16,7 @@ The objective of this project is to present to V.Isualize and the PyBer team an 
 
 **Weekly Ride-sharing by city type (Jan to April)**
 
-[Weekly Ride-sharing by city graph](https://github.com/TheLittlePrincess/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+![Weekly Ride-sharing by city graph](https://github.com/TheLittlePrincess/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 -	Based on the graph, first observation is that, even though the fares are very different per each of the three types of cities, they share a spike in late February – would be good to understand better what drove it, to attempt to replicate it, given that it positively affected all three types.
